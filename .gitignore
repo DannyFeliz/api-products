@@ -1,5 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
-default/config/.env
+config/.env
 vendor
 composer.phar
